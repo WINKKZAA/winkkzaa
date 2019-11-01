@@ -5,8 +5,12 @@ https://live.we-play.tv/app/discovery/playlist.m3u8
 http://newhdtv.myddns.me:8081/newhdtv/discovery_ch/chunks.m3u8?nimblesessionid=144021372&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE5IDI6NTQ6MTUgUE0maGFzaF92YWx1ZT1CTVJIVDFJNmdrRUVKSWdNTnZvcnp3PT0mdmFsaWRtaW51dGVzPTImc3RybV9sZW49MjA=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-history.png" group-title="- »ÃÐà·Èä·Â",HISTORY HD
 http://bit.ly/335sc9V
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-history.png" group-title="- »ÃÐà·Èä·Â",HISTORY HD test
+http://hdplaytv.dynns.com/newhdtv/historyhd_720p/chunks.m3u8?nimblesessionid=60224896&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE5IDM6MDg6NDIgUE0maGFzaF92YWx1ZT14U0ZXMlVqTHJUTCtYMGFGZ2x6cEx3PT0mdmFsaWRtaW51dGVzPTImc3RybV9sZW49MjI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/h2.jpg" group-title="- »ÃÐà·Èä·Â",H2
 http://bit.ly/2JBb5oI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/h2.jpg" group-title="- »ÃÐà·Èä·Â",H2test
+http://hdplaytv.dynns.com/newhdtv/h2hd_720p/chunks.m3u8?nimblesessionid=60225558&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE5IDM6MTA6NDQgUE0maGFzaF92YWx1ZT05VEcwZjZ3OGhVN1FXTE16NWI2YU1BPT0mdmFsaWRtaW51dGVzPTImc3RybV9sZW49MTc=
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title="- »ÃÐà·Èä·Â",outdoor channel
 https://live.we-play.tv/app/discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/nationalgeographic.jpg" group-title="- »ÃÐà·Èä·Â",National Geographic
