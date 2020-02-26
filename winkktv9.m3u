@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1,CH3 HD
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
+#EXTINF:-1,CH5 HD
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv01_ch5hd/playlist.m3u8
+#EXTINF:-1,CH7 HD
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv35_ch7hd/playlist.m3u8
+#EXTINF:-1,MCOT HD
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv30_mcothd/playlist.m3u8
+#EXTINF:-1,NBT Channel
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv02_nbthd/playlist.m3u8
+#EXTINF:-1,Thai PBS HD
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv03_tpbshd/playlist.m3u8
+#EXTINF:-1,PPTV HD
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
+#EXTINF:-1,Amarin TV
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
+#EXTINF:-1,Thairath HD
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
+#EXTINF:-1,ONE HD
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv31_onehd/playlist.m3u8
+#EXTINF:-1,Nation
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
+#EXTINF:-1,TNN16
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
+#EXTINF:-1,New18
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
+#EXTINF:-1,Workpoint
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
+#EXTINF:-1,True4U
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
+#EXTINF:-1,GMM25
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv25_gmmchannel/playlist.m3u8
+#EXTINF:-1,CH8
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv27_ch8/playlist.m3u8
+#EXTINF:-1,MONO TV
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv29_mono29/playlist.m3u8
+#EXTINF:-1, CH3 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
+#EXTINF:-1, CH5 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
+#EXTINF:-1, CH7 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
+#EXTINF:-1, MCOT HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
+#EXTINF:-1, NBT
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
+#EXTINF:-1, Thai PBS HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/thaipbs.smil/playlist.m3u8
+#EXTINF:-1, Amarin TV HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
+#EXTINF:-1, Thairath TV HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
+#EXTINF:-1, PPTV HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
+#EXTINF:-1, ONE HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
+#EXTINF:-1, New18 TV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
+#EXTINF:-1, CH3 SD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3sd.smil/playlist.m3u8
+#EXTINF:-1, CH3 Family
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3fm.smil/playlist.m3u8
+#EXTINF:-1, MCOT Family
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcot_family.smil/playlist.m3u8
+#EXTINF:-1, TNN16
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/tnn24.smil/playlist.m3u8
+#EXTINF:-1, Workpoint TV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8
+#EXTINF:-1, Voice TV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/voicetv.smil/playlist.m3u8
+#EXTINF:-1, Nation TV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nation.smil/playlist.m3u8
+#EXTINF:-1, True4u
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
+#EXTINF:-1, GMM25
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/gmmchannel.smil/playlist.m3u8
+#EXTINF:-1, CH8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
+#EXTINF:-1, Mono29
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mono29.smil/playlist.m3u8
+#EXTINF:-1, Sabaidee
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sabaideetv.smil/playlist.m3u8
+#EXTINF:-1, Boomerang
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/boomerang.smil/playlist.m3u8
+#EXTINF:-1, M Channel
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
+#EXTINF:-1,SAT V
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/serieschannel/playlist.m3u8
+#EXTINF:-1, CH2
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch2/playlist.m3u8
+#EXTINF:-1, Paramount Channel
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
+#EXTINF:-1,Sammuang Channel
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sammuang.stream/playlist.m3u8
+#EXTINF:-1, KIX HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/kixhd/playlist.m3u8
+#EXTINF:-1, Thrill HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
+#EXTINF:-1, Fashion TV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/fashiontv/playlist.m3u8
+#EXTINF:-1, Fight Sports
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/fightsportshd/playlist.m3u8
+#EXTINF:-1, Trace Sports Star
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/tracesportstar/playlist.m3u8
+#EXTINF:-1, Asian Food Channel
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/asianfoodchannelhd/playlist.m3u8
+#EXTINF:-1, BBC Earth 
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/bbcearth/playlist.m3u8
+#EXTINF:-1,T-Sports
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/t-sports.smil/playlist.m3u8
+#EXTINF:-1,TV5 Monde
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/tv5monde.smil/playlist.m3u8
+#EXTINF:-1,BBC World News
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/bbcworldnews/playlist.m3u8
+#EXTINF:-1,NHK World News
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nhkworld/playlist.m3u8
+#EXTINF:-1,Zeenuang
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/zeenang.smil/playlist.m3u8
+#EXTINF:-1,TMG Music
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
+#EXTINF:-1,Battle1 TV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
+#EXTINF:-1,Battle2 TV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle2.smil/playlist.m3u8
+#EXTINF:-1,PSI FHD
+http://103.120.113.90:1935/edgepsi/PSIHD.stream/playlist.m3u8
+#EXTINF:-1,CH3 FHD
+http://103.120.113.90:1935/psilive1a/3HD.stream/playlist.m3u8
+#EXTINF:-1,CH5 FHD
+http://103.120.113.90:1935/psilive1a/5HD.stream/playlist.m3u8
+#EXTINF:-1,CH7 FHD
+http://103.120.113.90:1935/psilive1a/7HD.stream/playlist.m3u8
+#EXTINF:-1,MCOT
+http://103.120.113.90:1935/psilive1a/MCOTHD.stream_360p/playlist.m3u8
+#EXTINF:-1,ThaiPBS FHD
+http://103.120.113.90:1935/psilive3a/TPBS.stream/playlist.m3u8
+#EXTINF:-1,Amarin TV FHD
+http://103.120.113.90:1935/psilive1a/AmarinHD.stream/playlist.m3u8
+#EXTINF:-1,Thairath TV
+http://103.120.113.90:1935/psilive1a/ThairatTV.stream_360p/playlist.m3u8
+#EXTINF:-1,PPTV FHD
+http://103.120.113.90:1935/psilive1a/PPTV.stream/playlist.m3u8
+#EXTINF:-1,ONE FHD
+http://103.120.113.90:1935/psilive1a/OneHD.stream/playlist.m3u8
+#EXTINF:-1,True4U
+http://103.120.113.90:1935/psilive1a/True4U.stream_360p/playlist.m3u8
+#EXTINF:-1,Nation TV
+http://103.120.113.90:1935/psilive1a/Nation.stream_360p/playlist.m3u8
+#EXTINF:-1,Workpoint
+http://103.120.113.90:1935/psilive1a/Workpoint.stream_360p/playlist.m3u8
+#EXTINF:-1,CH8
+http://103.120.113.90:1935/psilive1a/CH8.stream_360p/playlist.m3u8
+#EXTINF:-1,GMM25
+http://103.120.113.90:1935/psilive1a/GMM25.stream_360p/playlist.m3u8
+#EXTINF:-1,FAN TV
+http://103.120.113.90:1935/psilive2a/FanTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Mono29
+http://103.120.113.90:1935/psilive1a/Mono.stream_360p/playlist.m3u8
+#EXTINF:-1,Mono Plus
+http://103.120.113.90:1935/psilive3a/Mono_plus.stream_360p/playlist.m3u8
+#EXTINF:-1,M Channel
+http://103.120.113.90:1935/psilive3a/M_Channel.stream_360p/playlist.m3u8
+#EXTINF:-1,Asian Movies
+http://103.120.113.90:1935/psilive2a/AsianMovie.stream_360p/playlist.m3u8
+#EXTINF:-1,ThaiCCTV
+http://103.120.113.90:1935/psilive2a/THAICCTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Doonee
+http://103.120.113.90:1935/psilive2a/DOONEE.stream_360p/playlist.m3u8
+#EXTINF:-1,Action
+http://103.120.113.90:1935/psilive1a/action.stream_360p/playlist.m3u8
+#EXTINF:-1,TVN Thai HD
+http://103.120.113.90:1935/psilive3a/TVN_THAI.stream/playlist.m3u8
+#EXTINF:-1,Hit Varity
+http://103.120.113.90:1935/psilive2a/Hit_Variety.stream_360p/playlist.m3u8
+#EXTINF:-1,Hit Station
+http://103.120.113.90:1935/psilive3a/HitStation.stream_360p/playlist.m3u8
+#EXTINF:-1,Movie Hit
+http://103.120.113.90:1935/psilive3a/MOVIE_HITS_61.stream_360p/playlist.m3u8
+#EXTINF:-1,Nang Dung
+http://103.120.113.90:1935/psilive2a/NungDung.stream_360p/playlist.m3u8
+#EXTINF:-1,JaTingJa
+http://103.120.113.90:1935/psilive3a/JaTingJa.stream_360p/playlist.m3u8
+#EXTINF:-1,Cartoon Club
+http://103.120.113.90:1935/psilive3a/CARTOON_CLUB.stream_360p/playlist.m3u8
+#EXTINF:-1,Maya
+http://103.120.113.90:1935/psilive1a/MayaCH.stream_360p/playlist.m3u8
+#EXTINF:-1,Mirror
+http://103.120.113.90:1935/psilive2a/MIRROR.stream_360p/playlist.m3u8
+#EXTINF:-1,Kaset News
+http://103.120.113.90:1935/psilive3a/KasetNEW.stream_360p/playlist.m3u8
+#EXTINF:-1,40-50 TV
+http://103.120.113.90:1935/psilive3a/40_50.stream_360p/playlist.m3u8
+#EXTINF:-1,JKN
+http://103.120.113.90:1935/psilive3a/JKN.stream_360p/playlist.m3u8
+#EXTINF:-1,Mangkorn
+http://103.120.113.90:1935/psilive3a/Mangorn.stream_360p/playlist.m3u8
+#EXTINF:-1,TopLine
+http://103.120.113.90:1935/psilive2a/Topline.stream_360p/playlist.m3u8
+#EXTINF:-1,Wish TV
+http://103.120.113.90:1935/psilive3a/WishCH.stream_360p/playlist.m3u8
+#EXTINF:-1,Berng Dee
+http://103.120.113.90:1935/psilive2a/BERNGDEE.stream_360p/playlist.m3u8
+#EXTINF:-1,At TV
+http://103.120.113.90:1935/psilive2a/ATTV.stream_360p/playlist.m3u8
+#EXTINF:-1,UMM TV
+http://103.120.113.90:1935/psilive3a/UMMTV.stream_360p/playlist.m3u8
+#EXTINF:-1,AonZon TV
+http://103.120.113.90:1935/psilive2a/AonZon.stream_360p/playlist.m3u8
+#EXTINF:-1,Esa Ban Huao
+http://103.120.113.90:1935/psilive3a/EsanBanHuao.stream_360p/playlist.m3u8
+#EXTINF:-1,Zaap TV
+http://103.120.113.90:1935/psilive1a/Zabb.stream_360p/playlist.m3u8
+#EXTINF:-1,Unity TV
+http://103.120.113.90:1935/psilive3a/UnityTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Baan Baan TV
+http://103.120.113.90:1935/psilive2a/BBTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Buntean Thai
+http://103.120.113.90:1935/psilive1a/BTT.stream_360p/chunklist.m3u8
+#EXTINF:-1,Top TV
+http://103.120.113.90:1935/psilive2a/TopTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Zee Nung
+http://103.120.113.90:1935/psilive3a/ZeeNung.stream_360p/playlist.m3u8
+#EXTINF:-1,Tiger Shop
+http://103.120.113.90:1935/psilive2a/TigerShop.stream_360p/playlist.m3u8
+#EXTINF:-1,S Shop
+http://103.120.113.90:1935/psilive3a/R_fIlm.stream_360p/playlist.m3u8
+#EXTINF:-1,TVD1
+http://103.120.113.90:1935/psilive1a/TVD1.stream_360p/playlist.m3u8
+#EXTINF:-1,TVD3
+http://103.120.113.90:1935/psilive3a/TVD3.stream_360p/playlist.m3u8
+#EXTINF:-1,Momo1
+http://103.120.113.90:1935/psilive1a/TVDMOMO.stream_360p/playlist.m3u8
+#EXTINF:-1,Momo2
+http://103.120.113.90:1935/psilive2a/MOMO2.stream_360p/playlist.m3u8
+#EXTINF:-1,Momo3
+http://103.120.113.90:1935/psilive2a/MOMO3.stream_360p/playlist.m3u8
+#EXTINF:-1,S Shop
+http://103.120.113.90:1935/psilive1a/ShopCH.stream_360p/playlist.m3u8
+#EXTINF:-1,True Shopping
+http://103.120.113.90:1935/psilive2a/TimeTV.stream_360p/playlist.m3u8
