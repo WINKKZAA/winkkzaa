@@ -157,3 +157,13 @@ http://cdn856.stm.trueid.net/live3/007_th_m_high_tidapp.smil/playlist.m3u8
 http://cdn856.stm.trueid.net/live3/101_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png",Cartoon Network
 http://cdn856.stm.trueid.net/live2/192_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.xtreme4k.com/channels/pml1.png",TruePremiere 1
+http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.xtreme4k.com/channels/pml2.png",TruePremiere 2
+http://103.208.24.234:1935/thaisport/epl-2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",TruePremiere 3
+http://103.208.24.234:1935/thaisport/epl-3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball4.png",TruePremiere 4
+http://103.208.24.234:1935/thaisport/epl-4.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",TruePremiere 5
+http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
